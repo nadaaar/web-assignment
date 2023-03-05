@@ -474,3 +474,11 @@ ul li a:hover {
 
 /* For table */
 
+table,td,tr{
+  border:1px solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+body{
+  background-color: #f5b041;
+}
